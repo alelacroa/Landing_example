@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "firebase": "^9.0.2"
+  },
+  "name": "ale",
+  "version": "1.0.0",
+  "description": "Landing Eva",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Carrizo",
+  "license": "ISC"
+}
